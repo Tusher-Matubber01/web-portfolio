@@ -1,5 +1,6 @@
 body{
     font-family: 'Imbue', serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -10,8 +11,8 @@ h1{
 .half-width{
     width: 40%;
     float: left;
-margin-left: 5%;
-padding-left: 2%;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 .half-width img{
     width: 100%;
@@ -61,7 +62,7 @@ section{
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 280px;
+    height: 260px;
     background-color: white;
 }
 .experience-area{
